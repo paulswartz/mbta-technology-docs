@@ -129,9 +129,11 @@ The editors who can approve an RFC are:
 ## Reviewing RFCs
 
 While the RFC pull request is up, the editor may schedule meetings with the author and/or
-relevant stakeholders to discuss the issues in greater detail, and in some cases the topic may be
-discussed by the full team during a grooming. In either case a summary from the meeting will be
-posted back to the RFC pull request.
+relevant stakeholders to discuss the issues in greater detail, in which case a summary 
+from the meeting will be posted back to the RFC pull request. Reviewers will be looking
+to see that the outcome of the RFC would meet the goals set out in the 
+[Motivation](0000-template.md#motivation) and that there is sufficient detail in the other
+sections to address any relevant questions or risks.
 
 ## A "living" process
 
